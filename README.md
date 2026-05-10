@@ -44,6 +44,14 @@ Risk Score = Likelihood × Impact
 - Risk Treatment Framework
 - Governance & Compliance Principles
 
+## Skills Demonstrated
+- Cybersecurity Risk Assessment
+- Residual Risk Analysis
+- Risk Treatment Planning
+- Security Control Evaluation
+- Governance & Compliance Documentation
+- GRC Reporting and Methodology Design
+  
 ## Sample Risks Included
 - Phishing Attacks
 - Cloud Misconfiguration
@@ -53,7 +61,7 @@ Risk Score = Likelihood × Impact
 - MITM/Data Interception
 
 ## Framework Alignment
-This project follows simplified principles inspired by:
+This project applies simplified risk management principles aligned with:
 - ISO 27001 Risk Management
 - Enterprise Risk Assessment Practices
 - Cybersecurity Governance Methodologies
